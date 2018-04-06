@@ -1,0 +1,41 @@
+{
+  "name": "insight-ui-square",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Square network and build your own services with it.",
+  "version": "0.4.3",
+  "repository": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/insight-ui-square.git",
+  "contributors": [
+    {
+      "name": " ",
+      "email": " "
+    }
+  ],
+  "bugs": {
+    "url": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/insight-ui-square/issues"
+  },
+  "homepage": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/insight-ui-square",
+  "license": "MIT",
+  "keywords": [
+    "insight",
+    "blockchain",
+    "blockexplorer",
+    "square",
+    "bitcore-square",
+    "front-end"
+  ],
+  "bitcoreNode": "bitcore-node-square",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "~1.2.8",
+    "grunt": "~0.4.2",
+    "grunt-cli": "~0.1.11",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-watch": "*",
+    "grunt-macreload": "*",
+    "grunt-css": "~0.5.4",
+    "grunt-markdown": "~0.5.0",
+    "grunt-angular-gettext": "^0.2.15"
+  }
+}
